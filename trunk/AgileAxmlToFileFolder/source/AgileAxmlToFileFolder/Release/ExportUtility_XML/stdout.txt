@@ -1,0 +1,1 @@
+Loading properties file: config\app.properties

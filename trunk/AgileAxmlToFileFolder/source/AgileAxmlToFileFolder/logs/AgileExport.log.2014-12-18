@@ -1,0 +1,51 @@
+2014-12-18 16:19:13 INFO  AgileExport:51 - inputFolder: axmlInput
+2014-12-18 16:19:13 INFO  AgileExport:52 - tempFolder: temp
+2014-12-18 16:19:14 INFO  AgileExport:53 - archiveFolder: archive
+2014-12-18 16:19:14 INFO  AgileExport:54 - profiles: null
+2014-12-18 16:21:52 INFO  AgileExport:51 - inputFolder: F:/Projects/AG Leader/CSV Export/ExportUtility/axmlInput
+2014-12-18 16:21:53 INFO  AgileExport:52 - tempFolder: F:/Projects/AG Leader/CSV Export/ExportUtility/temp
+2014-12-18 16:21:53 INFO  AgileExport:53 - archiveFolder: F:/Projects/AG Leader/CSV Export/ExportUtility/archive
+2014-12-18 16:21:53 INFO  AgileExport:54 - profiles: null
+2014-12-18 16:23:24 INFO  AgileExport:80 - File found: agile.agl
+2014-12-18 16:23:36 INFO  AgileExport:163 - file unzip : F:\Projects\AG Leader\CSV Export\ExportUtility\temp\agile.agl\agile.xml
+2014-12-18 16:23:36 INFO  AgileExport:185 - Done
+2014-12-18 16:23:45 INFO  AgileExport:92 - Extracted to F:\Projects\AG Leader\CSV Export\ExportUtility\temp\agile.agl\agile.xml
+2014-12-18 16:25:37 INFO  AgileExport:51 - inputFolder: F:/Projects/AG Leader/CSV Export/ExportUtility/axmlInput
+2014-12-18 16:25:37 INFO  AgileExport:52 - tempFolder: F:/Projects/AG Leader/CSV Export/ExportUtility/temp
+2014-12-18 16:25:38 INFO  AgileExport:53 - archiveFolder: F:/Projects/AG Leader/CSV Export/ExportUtility/archive
+2014-12-18 16:25:38 INFO  AgileExport:54 - profiles: null
+2014-12-18 16:27:01 INFO  AgileExport:80 - File found: agile.agl
+2014-12-18 16:27:03 INFO  AgileExport:162 - file unzip : F:\Projects\AG Leader\CSV Export\ExportUtility\temp\agile.agl\agile.xml
+2014-12-18 16:27:03 INFO  AgileExport:184 - Done
+2014-12-18 16:27:03 INFO  AgileExport:92 - Extracted to F:\Projects\AG Leader\CSV Export\ExportUtility\temp\agile.agl\agile.xml
+2014-12-18 16:27:04 INFO  AgileExport:97 - XSL File Path: F:/Projects/AG Leader/CSV Export/ExportUtility/config/Transformation.xsl
+2014-12-18 16:28:30 INFO  AgileExport:105 - Transformed
+2014-12-18 16:28:30 INFO  AgileExport:106 - Profile completed
+2014-12-18 16:29:00 INFO  AgileExport:118 - file processing completed
+2014-12-18 16:29:03 INFO  AgileExport:127 - Execution completed
+2014-12-18 16:31:57 INFO  AgileExport:51 - inputFolder: F:/Projects/AG Leader/CSV Export/ExportUtility/axmlInput
+2014-12-18 16:31:57 INFO  AgileExport:52 - tempFolder: F:/Projects/AG Leader/CSV Export/ExportUtility/temp
+2014-12-18 16:31:57 INFO  AgileExport:53 - archiveFolder: F:/Projects/AG Leader/CSV Export/ExportUtility/archive
+2014-12-18 16:31:57 INFO  AgileExport:137 - Execution completed
+2014-12-18 16:33:15 INFO  AgileExport:51 - inputFolder: F:/Projects/AG Leader/CSV Export/ExportUtility/axmlInput
+2014-12-18 16:33:15 INFO  AgileExport:52 - tempFolder: F:/Projects/AG Leader/CSV Export/ExportUtility/temp
+2014-12-18 16:33:15 INFO  AgileExport:53 - archiveFolder: F:/Projects/AG Leader/CSV Export/ExportUtility/archive
+2014-12-18 16:33:24 INFO  AgileExport:80 - File found: agile.agl
+2014-12-18 16:33:24 INFO  AgileExport:172 - file unzip : F:\Projects\AG Leader\CSV Export\ExportUtility\temp\agile.agl\agile.xml
+2014-12-18 16:33:24 INFO  AgileExport:194 - Done
+2014-12-18 16:33:24 INFO  AgileExport:92 - Extracted to F:\Projects\AG Leader\CSV Export\ExportUtility\temp\agile.agl\agile.xml
+2014-12-18 16:33:24 INFO  AgileExport:98 - XSL File Path: F:/Projects/AG Leader/CSV Export/ExportUtility/config/Transformation.xsl
+2014-12-18 16:33:25 INFO  AgileExport:106 - Transformed
+2014-12-18 16:33:25 INFO  AgileExport:107 - Profile completed
+2014-12-18 16:35:12 INFO  AgileExport:51 - inputFolder: F:/Projects/AG Leader/CSV Export/ExportUtility/axmlInput
+2014-12-18 16:35:12 INFO  AgileExport:52 - tempFolder: F:/Projects/AG Leader/CSV Export/ExportUtility/temp
+2014-12-18 16:35:12 INFO  AgileExport:53 - archiveFolder: F:/Projects/AG Leader/CSV Export/ExportUtility/archive
+2014-12-18 16:35:12 INFO  AgileExport:80 - File found: agile.agl
+2014-12-18 16:35:12 INFO  AgileExport:173 - file unzip : F:\Projects\AG Leader\CSV Export\ExportUtility\temp\agile.agl\agile.xml
+2014-12-18 16:35:12 INFO  AgileExport:195 - Done
+2014-12-18 16:35:12 INFO  AgileExport:92 - Extracted to F:\Projects\AG Leader\CSV Export\ExportUtility\temp\agile.agl\agile.xml
+2014-12-18 16:35:12 INFO  AgileExport:98 - XSL File Path: F:/Projects/AG Leader/CSV Export/ExportUtility/config/Transformation.xsl
+2014-12-18 16:35:13 INFO  AgileExport:106 - Transformed
+2014-12-18 16:35:13 INFO  AgileExport:107 - Profile completed
+2014-12-18 16:35:13 INFO  AgileExport:128 - file processing completed
+2014-12-18 16:35:13 INFO  AgileExport:138 - Execution completed
